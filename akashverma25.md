@@ -8,3 +8,4 @@ $ git add *
 $ git status
 $ git commit -m "Modified read"
 $ git push
+edit through vs code
